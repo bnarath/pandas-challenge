@@ -7,7 +7,7 @@ In this project, we have to analyze the data of fantasy game "Heroes of Pymoli".
 
 <div style="text-align:center"><img src="images/Pymoli_photo1.png"></div>
 
-# Dataset:  <a href="Resources/purchase_data.csv">Here</a>
+# Dataset:  <a href="HeroesOfPymoli/Resources/purchase_data.csv">Here</a>
 
 # Tasks
 We have <strong>to generate a report that breaks down the game's purchasing data into meaningful insights.<strong>
