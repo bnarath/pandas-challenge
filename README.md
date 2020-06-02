@@ -58,10 +58,13 @@ Final report should include each of the following:
  # Conclusion
  
 ```
-Though, male players outnumber females and the other category, a key point to note here
-is that average female player spending is more than that of a male player both in 
-terms of purchase value and count. This means, the gaming company need 
-to market more to attract female players as they tend to purchase more.(Please note that the gender category of "others/Non-Disclosed" is only less than 2%. Hence it is not appropriate to derive conclusions about them as the data is not enough).
+Though, male players outnumber females and the other category, a key point to note here is that average 
+female player spending is more than that of a male player both in terms of purchase value and count. 
+This means,  
++ the gaming company need to market more to attract female players as they tend to purchase more.
+
+(Please note that the gender category of "others/Non-Disclosed" is only less than 2%. 
+Hence it is not appropriate to derive conclusions about them as the data is not enough).
 ```
  
 ```
