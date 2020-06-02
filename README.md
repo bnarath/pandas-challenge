@@ -57,15 +57,7 @@ Final report should include each of the following:
  
  # Conclusion
  
-```
-diff --git a/filea.extension b/fileb.extension
-index d28nd309d..b3nu834uj 111111
---- a/filea.extension
-+++ b/fileb.extension
-@@ -1,6 +1,6 @@
--oldLine
-+newLine
-
+``` diff
 Though, male players outnumber females and the other category, a key point to note here is that average 
 female player spending is more than that of a male player both in terms of purchase value and count. 
 This means,  
@@ -75,7 +67,7 @@ This means,
 Hence it is not appropriate to derive conclusions about them as the data is not enough).
 ```
  
-```
+``` diff
 Majority of players belong to the 20-24 Age group. Though these players are the ones
 who buy the most (1.41 purchases / person) compared to others, they are buying cheaper
 compared to high spending age groups 35-39 and <10. The same behavior can be observed
@@ -85,7 +77,7 @@ the age groups 35-39 and <10 are the ones who spend the most (4.76 and 4.54 per 
 respectively). However, they are only 8% of the total players. There is a huge opportunity
 if the company could market effectively to attract these groups as they tend to purchase more.
 ```
-```
+``` diff
 The most popular and profitable items are "Final Critic" and "Oathbreaker, 
 Last Hope of the Breaking Storm". They are sold not because of low price. Both of them are expensive,
 compared to other items (placed above 80% of all product prices). Still, players are buying them 
