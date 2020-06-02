@@ -91,6 +91,10 @@ Both of them are expensive, compared to other items (placed above 80% of all pro
  # PyCitySchools
  In this project, we need to help making strategic decisions regarding future school budgets and priorities. We have to analyze the district-wide standardized test results. 
  <div style="text-align:center"><img src="images/Pycity_photo1.png"></div>
+ 
+# Dataset:  
+<a href="PyCitySchools/Resources/schools_complete.csv">Schools Data Here</a>
+<a href="PyCitySchools/Resources/students_complete.csv">Students Data Here</a>
 
 # Tasks
 We are given access to every student's math and reading scores, as well as various information on the schools they attend. We need <strong>to aggregate the data to and showcase obvious trends in school performance.</strong>
