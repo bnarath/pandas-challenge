@@ -52,6 +52,23 @@ Final report should include each of the following:
   - Item Price
   - Total Purchase Value
   
+ # Codebase
+ Please refer the jupyter notebook <a href="HeroesOfPymoli/HeroesOfPymoli.ipynb">here</a>
+ 
+ # Conclusion
+ 
+ '''
+Though, male players outnumber females and the other category, a key point to note here is that average female player spending is more than that of a male player both in terms of purchase value and count. This means, the gaming company need to market more to attract female players as they tend to purchase more. (Please note that the gender category of "others/Non-Disclosed" is only less than 2%. Hence it is not appropriate to derive conclusions about them as the data is not enough).
+ '''
+ 
+ '''
+ Majority of players belong to the 20-24 Age group. Though these players are the ones who buy the most (1.41 purchases / person) compared to others, they are buying cheaper compared to high spending age groups 35-39 and <10. The same behavior can be observed by 30-34 age group also. Hence, these age groups (20-24 & 30-34) can be targeted with discounts. They will buy more in number but with moderate prices. We can also see that, the age groups 35-39 and <10 are the ones who spend the most (4.76 and 4.54 per person respectively). However, they are only 8% of the total players. There is a huge opportunity if the company could market effectively to attract these groups as they tend to purchase more.
+ '''
+ '''
+The most popular and profitable items are "Final Critic" and "Oathbreaker, Last Hope of the Breaking Storm". They are sold not because of low price. Both of them are expensive, compared to other items (placed above 80% of all product prices). Still, players are buying them considerably; means, there are some unique features in those products that help the players cross certain stages or achieve some popular targets. The company shall experiment on increasing the prices of these products, also introduce products with similar features and price ranges.
+ '''
+ 
+  
  # PyCitySchools
  In this project, we need to help making strategic decisions regarding future school budgets and priorities. We have to analyze the district-wide standardized test results. 
  <div style="text-align:center"><img src="images/Pycity_photo1.png"></div>
@@ -59,7 +76,7 @@ Final report should include each of the following:
 # Tasks
 We are given access to every student's math and reading scores, as well as various information on the schools they attend. We need <strong>to aggregate the data to and showcase obvious trends in school performance.</strong>
 
-Your final report should include each of the following:
+Final report should include each of the following:
 
 - District Summary: Create a high level snapshot (in table form) of the district's key metrics, including:
   - Total Schools
