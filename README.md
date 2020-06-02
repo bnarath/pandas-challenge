@@ -57,6 +57,8 @@ Final report should include each of the following:
  
  # Conclusion
  
+ Please refer the report <a href="HeroesOfPymoli/Report-Pymoli.docx">here</a>
+ 
 ``` diff
 Though, male players outnumber females and the other category, a key point to note here is that average 
 female player spending is more than that of a male player both in terms of purchase value and count. 
