@@ -66,7 +66,7 @@ This implies that,
 + the gaming company need to market more to attract female players as they tend to purchase more.
 
 ```
-<div style="text-align:center"><img src="images/Pymoli_table1.png">Male Vs Female Purchase Trends</div>
+<div style="text-align:center"><img src="images/Pymoli_table1.png"><p>Male Vs Female Purchase Trends</p></div>
  
 ``` diff
 Majority of players belong to the 20-24 Age group. Though these players are the ones
@@ -80,8 +80,8 @@ We can also see that, the age groups 35-39 and <10 are the ones who spend the mo
 respectively). However, they are only 8% of the total players. 
 + There is a huge opportunity if the company could market effectively to attract these groups as they tend to purchase more.
 ```
-<div style="text-align:center"><img src="images/Pymoli_table2.png">Age groups sorted (descending order) by value of purchase</div>
-<div style="text-align:center"><img src="images/Pymoli_table3.png">Age groups sorted (descending order) by count of purchase</div>
+<div style="text-align:center"><img src="images/Pymoli_table2.png"><p>Age groups sorted (descending order) by value of purchase</p></div>
+<div style="text-align:center"><img src="images/Pymoli_table3.png"><p>Age groups sorted (descending order) by count of purchase</p></div>
 
 <div style="text-align:center"><img src="images/Pymoli_photo2.png"></div>
 
@@ -92,8 +92,8 @@ Both of them are expensive, compared to other items (placed above 80% of all pro
 - there are some unique features in those products that help the players cross certain stages or achieve some popular targets. 
 + The company shall experiment on increasing the prices of these products, also introduce products with similar features and price ranges.
 ```
-<div style="text-align:center"><img src="images/Pymoli_table4.png">Most popular Top5 items</div>
-<div style="text-align:center"><img src="images/Pymoli_table5.png">Most profitable Top5 items</div> 
+<div style="text-align:center"><img src="images/Pymoli_table4.png"><p>Most popular Top5 items</p></div>
+<div style="text-align:center"><img src="images/Pymoli_table5.png"><p>Most profitable Top5 items</p></div> 
  
  
  # PyCitySchools
