@@ -100,11 +100,11 @@ Both of them are expensive, compared to other items (placed above 80% of all pro
  In this project, we need to help making strategic decisions regarding future school budgets and priorities. We have to analyze the district-wide standardized test results. 
  <div style="text-align:center"><img src="images/Pycity_photo1.png"></div>
  
-# Dataset:  
+## Dataset:  
 <p><a href="PyCitySchools/Resources/schools_complete.csv">Schools Data Here</a></p>
 <p><a href="PyCitySchools/Resources/students_complete.csv">Students Data Here</a></p>
 
-# Tasks
+## Tasks
 We are given access to every student's math and reading scores, as well as various information on the schools they attend. We need <strong>to aggregate the data to and showcase obvious trends in school performance.</strong>
 
 Final report should include each of the following:
@@ -151,3 +151,48 @@ Final report should include each of the following:
   - % Overall Passing (The percentage of students that passed math and reading.)
 - Scores by School Size: Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 - Scores by School Type: Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+## Codebase
+Please refer the jupyter notebook <a href="PyCitySchools/PyCitySchools.ipynb">here</a>
+ 
+## Conclusion
+ 
+Please refer the report <a href="PyCitySchools/Report-PyCity.docx">here</a>
+ 
+``` diff
+Large size schools (with 2500 more students) seem to be spending more, still none of them 
+having a good (>70%) success. (This might be because of factors like less proportion of teachers 
+and budget is allocated for other facilities etc.)
+Another, key observation is all the top - 4 performing schools are of size between 1400-2500!!
+- This means that size beyond 2500 students have an adverse effect on performance. 
++ This information should be passed to schools and need to check if they have any specific resource crunch to manage large number of students. 
+```
+<div style="text-align:center"><img src="images/Pycity_photo2.png"></div>
+ 
+``` diff
++ It seems like schools have pretty much consistent performance (%of students who passed in both math & reading) 
+through all the grades. 
+Maybe, same faculty is teaching across the grades!!! 
+However, some schools have shown some leaps and falls through grades. 
+- Out of all the schools, only "Figueroa High School", "Ford High School", "Holden High School" 
+- and "Shelton High School" are showing more than 4% variation across grades. 
++ We need to enquire and find out what is changing across the grades for them. 
+```
+
+<div style="text-align:center"><p>Max variation across grades</p><img src="images/Pycity_table1.png"></div>
+<div style="text-align:center"><img src="images/Pycity_photo3.png"></div>
+
+``` diff
+- Though there are almost equal number of Charter and District schools, 
+the former type has way more passing % compared to the latter. 
+Also, note the avg size of the District schools. It is way more than the Charter schools. 
++ We should enquire about, why District schools perform bad, is it the size or some other hidden factor?
+```
+<div style="text-align:center"><p>Charter Vs District Performance</p><img src="images/Pycity_table2.png"></div>
+
+ ``` diff
+- ALL the schools have a better passing percentage in Reading compared to Mathematics. 
+Across schools, while 89% of the students pass in reading, only 80% pass in mathematics. 
+- The low performing schools perform poorly in math, hence, the overall passing percentage drops. 
++ Authorities need to take some considerable measures to improve math in those schools.
+```
+<div style="text-align:center"><p>Math Vs. Reading </p><img src="images/Pycity_table3.png"></div>
