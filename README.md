@@ -164,13 +164,14 @@ having a good (>70%) success. (This might be because of factors like less propor
 and budget is allocated for other facilities etc.)
 Another, key observation is all the top - 4 performing schools are of size between 1400-2500!!
 - This means that size beyond 2500 students have an adverse effect on performance. 
-+ This information should be passed to schools and need to check if they have any specific resource crunch to manage large number of students. 
++ This information should be passed to schools and need to check if they have any specific 
++ resource crunch to manage large number of students. 
 ```
 <div style="text-align:center"><img src="images/Pycity_photo2.png"></div>
  
 ``` diff
-+ It seems like schools have pretty much consistent performance (%of students who passed in both math & reading) 
-through all the grades. 
++ It seems like schools have pretty much consistent performance 
++ (%of students who passed in both math & reading) through all the grades. 
 Maybe, same faculty is teaching across the grades!!! 
 However, some schools have shown some leaps and falls through grades. 
 - Out of all the schools, only "Figueroa High School", "Ford High School", "Holden High School" 
@@ -183,9 +184,10 @@ However, some schools have shown some leaps and falls through grades.
 
 ``` diff
 - Though there are almost equal number of Charter and District schools, 
-the former type has way more passing % compared to the latter. 
+- the former type has way more passing % compared to the latter. 
 Also, note the avg size of the District schools. It is way more than the Charter schools. 
-+ We should enquire about, why District schools perform bad, is it the size or some other hidden factor?
++ We should enquire about, why District schools perform bad, is it the size or some 
++ other hidden factor?
 ```
 <div style="text-align:center"><p>Charter Vs District Performance</p><img src="images/Pycity_table2.png"></div>
 
