@@ -95,8 +95,6 @@ Both of them are expensive, compared to other items (placed above 80% of all pro
 <div style="text-align:center"><img src="images/Pymoli_table4.png">Most popular Top5 items</div>
 <div style="text-align:center"><img src="images/Pymoli_table5.png">Most profitable Top5 items</div> 
  
-## Report
-Please refer the jupyter notebook <a href="HeroesOfPymoli/Report-Pymoli.docx">here</a>
  
  # PyCitySchools
  In this project, we need to help making strategic decisions regarding future school budgets and priorities. We have to analyze the district-wide standardized test results. 
