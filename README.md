@@ -7,9 +7,9 @@ In this project, we have to analyze the data of fantasy game "Heroes of Pymoli".
 
 <div style="text-align:center"><img src="images/Pymoli_photo1.png"></div>
 
-# Dataset:  <a href="HeroesOfPymoli/Resources/purchase_data.csv">Here</a>
+## Dataset:  <a href="HeroesOfPymoli/Resources/purchase_data.csv">Here</a>
 
-# Tasks
+## Tasks
 We have <strong>to generate a report that breaks down the game's purchasing data into meaningful insights.<strong>
 Final report should include each of the following:
 
@@ -52,10 +52,10 @@ Final report should include each of the following:
   - Item Price
   - Total Purchase Value
   
- # Codebase
+ ## Codebase
  Please refer the jupyter notebook <a href="HeroesOfPymoli/HeroesOfPymoli.ipynb">here</a>
  
- # Conclusion
+ ## Conclusion
  
  Please refer the report <a href="HeroesOfPymoli/Report-Pymoli.docx">here</a>
  
@@ -66,6 +66,7 @@ This implies that,
 + the gaming company need to market more to attract female players as they tend to purchase more.
 
 ```
+<div style="text-align:center"><img src="images/Pymoli_table1.png">Male Vs Female Purchase Trends</div>
  
 ``` diff
 Majority of players belong to the 20-24 Age group. Though these players are the ones
@@ -79,6 +80,11 @@ We can also see that, the age groups 35-39 and <10 are the ones who spend the mo
 respectively). However, they are only 8% of the total players. 
 + There is a huge opportunity if the company could market effectively to attract these groups as they tend to purchase more.
 ```
+<div style="text-align:center"><img src="images/Pymoli_table2.png">Age groups sorted (descending order) by value of purchase</div>
+<div style="text-align:center"><img src="images/Pymoli_table3.png">Age groups sorted (descending order) by count of purchase</div>
+
+<div style="text-align:center"><img src="images/Pymoli_photo2.png"></div>
+
 ``` diff
 The most popular and profitable items are "Final Critic" and "Oathbreaker, Last Hope of the Breaking Storm". 
 - They are sold NOT because of low price. 
@@ -86,8 +92,10 @@ Both of them are expensive, compared to other items (placed above 80% of all pro
 - there are some unique features in those products that help the players cross certain stages or achieve some popular targets. 
 + The company shall experiment on increasing the prices of these products, also introduce products with similar features and price ranges.
 ```
+<div style="text-align:center"><img src="images/Pymoli_table4.png">Most popular Top5 items</div>
+<div style="text-align:center"><img src="images/Pymoli_table5.png">Most profitable Top5 items</div> 
  
-  
+ 
  # PyCitySchools
  In this project, we need to help making strategic decisions regarding future school budgets and priorities. We have to analyze the district-wide standardized test results. 
  <div style="text-align:center"><img src="images/Pycity_photo1.png"></div>
